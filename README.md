@@ -4,7 +4,7 @@
 ### 一. 自動部署 Heroku
 首先我們先做一個最簡單的 Echo Bot (也就是你跟他說什麼，他都會回覆一Cancel changes模一樣的話給你) 點擊下面紫色的 Deploy to Heroku 按鈕
 
-<a href="https://heroku.com/deploy?template=https://github.com/Sylvia7216471/Flask-LINE-Bot-Heroku">
+<a href="https://heroku.com/deploy?template=https://github.com/Sylvia7216471/Flask-LINE-Bot-Heroku/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
